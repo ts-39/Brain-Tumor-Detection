@@ -1,7 +1,7 @@
 # Brain Tumor Detection with CNN
 
-![nopic1](https://github.com/user-attachments/assets/d03d7a0f-b858-43df-b495-12ddedbba1d8)
-![yespic1](https://github.com/user-attachments/assets/357ef3fa-3609-4919-80c9-f36db4e1380b)
+![nopic5](https://github.com/user-attachments/assets/df476b7d-3a06-40e4-bde4-f14cc2a07350)
+![yespic4](https://github.com/user-attachments/assets/b3368776-6ffb-40c5-958c-c13863540663)
 
 
 ## Overview
