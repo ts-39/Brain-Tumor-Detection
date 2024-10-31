@@ -1,5 +1,9 @@
 # Brain Tumor Detection with CNN
 
+![nopic1](https://github.com/user-attachments/assets/d03d7a0f-b858-43df-b495-12ddedbba1d8)
+![yespic1](https://github.com/user-attachments/assets/357ef3fa-3609-4919-80c9-f36db4e1380b)
+
+
 ## Overview
 This project is my first attempt at building a Convolutional Neural Network (CNN) model for brain tumor detection. While the code is straightforward, my focus was on learning and applying foundational concepts of CNNs rather than achieving professional-grade complexity. Throughout this project, I deepened my understanding of CNNs, data preprocessing, and the challenges that come with real-world applications of image processing in healthcare.
 
