@@ -10,6 +10,27 @@ This project is my first attempt at building a Convolutional Neural Network (CNN
 ## Motivation
 As a Data Science major student with a growing interest in machine learning and computer vision, this project allowed me to apply what I've been learning in a meaningful way. I wanted to explore how CNNs can help identify brain tumors using MRI images. Although my coding here might be simple, I learned a lot about CNN architectures, layers, and the importance of hyperparameter tuning.
 
+## Dataset
+The dataset for brain tumor detection can be downloaded using `kagglehub`. To obtain the latest version, use the following code:
+
+```python
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("navoneel/brain-mri-images-for-brain-tumor-detection")
+
+print("Path to dataset files:", path)
+```
+
+This code will download the dataset directly to your local environment, and the path to the dataset files will be printed upon completion.
+
+
+# Download latest version
+path = kagglehub.dataset_download("navoneel/brain-mri-images-for-brain-tumor-detection")
+
+print("Path to dataset files:", path)
+This code will download the dataset directly to your local environment, and the path to the dataset files will be printed upon completion.
+
 ## Installation
 To run this project, you’ll need:
 - Python 3.7 or above
@@ -25,4 +46,3 @@ As I continue to develop my skills, I plan to improve this project by experiment
 
 ## Acknowledgments
 This project was a significant learning experience for me, and I’d like to thank the online ML community for the numerous resources that helped guide me.
-
